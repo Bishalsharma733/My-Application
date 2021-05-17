@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="temperature_in_fahrenheit">Temperature in Fahrenheit</string>
+    <string name="output">Output in Celsius</string>
+    <string name="convert">Convert</string>
+</resources>
